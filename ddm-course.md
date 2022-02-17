@@ -1,16 +1,17 @@
 <!--
-author:   Your Name
+author:   Oscar Campo
 
-email:    your@mail.org
+email:    oicampo@uao.edu.co
 
 version:  0.0.1
 
-language: en
+language: sp
 
-narrator: US English Female
+narrator: Spanish Latin American Female
 
-comment:  Try to write a short comment about
-          your course, multiline is also okay.
+comment:  Material para el curso de Diseño y Manufactura Digital
+          Maestría en Diseño y Desarrollo de Productos.
+          Universidad Autónoma de Occidente
 -->
 
 # Diseño y Manufactura Digital
