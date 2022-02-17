@@ -13,7 +13,7 @@ comment:  Try to write a short comment about
           your course, multiline is also okay.
 -->
 
-# Course Main Title
+# Diseño y Manufactura Digital
 
 This is your **course** initialization stub.
 
