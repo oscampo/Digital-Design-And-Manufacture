@@ -11,8 +11,6 @@ logo:
 comment:  En este documento se da la realimentación de la tarea 1 del curso
 
 script:   
-
-
 -->
 
 ### Realimentación Tarea 1
