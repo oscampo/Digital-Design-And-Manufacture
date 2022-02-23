@@ -47,19 +47,19 @@ Images:
 ### Extensions
 
      --{{0}}--
-But you can also include other features such as spoken text.
+Además se puede incluir otras características como texto hablado.
 
       --{{1}}--
-Insert any kind of audio file:
+Inserte cualquier tipo de archivos de audio:
 
        {{1}}
 ?[audio](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
 
 
      --{{2}}--
-Even videos or change the language completely.
+Incluso videos o cambiar completamente el idioma.
 
-       {{2-3}}
+     {{2}}
 !?[video](https://www.youtube.com/watch?v=bICfKRyKTwE)
 
 
@@ -70,7 +70,7 @@ Even videos or change the language completely.
 
 
     {{3}}
-Type "voice" to see a list of all available languages.
+Teclee "voice" para ver una lista de todos los idiomas disponibles.
 
 
 ### Styling
