@@ -26,14 +26,45 @@
 [Sodick](https://www.sodick.com) [MTM](http://mtm.cba.mit.edu/machines/dwedm/index.html)
 
 ## CAD
-   [Inkscape](http://www.inkscape.org) [extensiones](https://inkscape.org/gallery/=extension/) [video](http://academy.cba.mit.edu/classes/computer_design/inkscape.mp4)
-   [Rhino](http://www.rhino3d.com) [Grasshopper](http://www.grasshopper3d.com) [video](https://www.youtube.com/watch?v=mZ_1jC2FrnY&t=2s)
-   [Blender](https://www.blender.org) [Sverchok](http://nikitron.cc.ua/sverch/html/main.html) [geometry nodes](https://wiki.blender.org/wiki/Reference/Release_Notes/2.92/Geometry_Nodes)
-   [FreeCAD](https://www.freecadweb.org) [Sketcher](https://www.freecadweb.org/wiki/Sketcher_Workbench) [LCInterlocking](https://github.com/execuc/LCInterlocking) [video](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4)
-   [Fusion 360](http://www.autodesk.com/products/fusion-360/overview) [Slicer](https://knowledge.autodesk.com/es/support/fusion-360/troubleshooting/caas/downloads/downloads/ESP/content/slicer-for-fusion-360.html)
-   [SolidWorks](http://www.solidworks.com) [xDesign](https://xdesign.solidworks.com)
-   [Onshape](https://www.onshape.com) [Kiri:Moto](https://appstore.onshape.com/apps/CAM/EAAEWYIOMQKBENEMYW2N7MF253CT4WYL6SUJGEY=/description)
-   [Cuttle](https://cuttle.xyz) [Kyub](http://kyub.com) [Pepakura](http://www.tamasoft.co.jp/pepakura-en/) [VisiCut](http://hci.rwth-aachen.de/visicut) [flatfab](http://flatfab.com) [ExactFlat](https://www.exactflat.com)
+   [Inkscape](http://www.inkscape.org) [extensiones](https://inkscape.org/gallery/=extension/)
+   
+   [video](http://academy.cba.mit.edu/classes/computer_design/inkscape.mp4)
+   
+   [Rhino](http://www.rhino3d.com) [Grasshopper](http://www.grasshopper3d.com)
+   
+   [video](https://www.youtube.com/watch?v=mZ_1jC2FrnY&t=2s)
+   
+   [Blender](https://www.blender.org) [Sverchok](http://nikitron.cc.ua/sverch/html/main.html)
+   
+   [geometry nodes](https://wiki.blender.org/wiki/Reference/Release_Notes/2.92/Geometry_Nodes)
+   
+   [FreeCAD](https://www.freecadweb.org)
+   
+   [Sketcher](https://www.freecadweb.org/wiki/Sketcher_Workbench)
+   
+   [LCInterlocking](https://github.com/execuc/LCInterlocking)
+   
+   [video](http://academy.cba.mit.edu/classes/computer_design/2Dconstraints.mp4)
+   
+   [Fusion 360](http://www.autodesk.com/products/fusion-360/overview), [Slicer](https://knowledge.autodesk.com/es/support/fusion-360/troubleshooting/caas/downloads/downloads/ESP/content/slicer-for-fusion-360.html)
+   
+   [SolidWorks](http://www.solidworks.com)
+   
+   [xDesign](https://xdesign.solidworks.com)
+   
+   [Onshape](https://www.onshape.com)
+   
+   [Kiri:Moto](https://appstore.onshape.com/apps/CAM/EAAEWYIOMQKBENEMYW2N7MF253CT4WYL6SUJGEY=/description)
+   
+   [Cuttle](https://cuttle.xyz) [Kyub](http://kyub.com)
+   
+   [Pepakura](http://www.tamasoft.co.jp/pepakura-en/)
+   
+   [VisiCut](http://hci.rwth-aachen.de/visicut)
+   
+   [flatfab](http://flatfab.com)
+   
+   [ExactFlat](https://www.exactflat.com)
 
 ## [CAM](http://academy.cba.mit.edu/classes/computer_cutting/alien.jpg)
    printer drivers
