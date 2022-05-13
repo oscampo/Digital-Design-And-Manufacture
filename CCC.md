@@ -8,14 +8,15 @@
 [Roland](https://www.rolanddga.com/products/printers/print-and-cut)
 
 ### _Laser_
-[Epilog](http://www.epiloglaser.com/product_line.htm) [Universal](http://www.ulsinc.com/products/) [Trotec](http://www.troteclaser.com) [GCC](http://www.gccworld.com/Laser_Engraver.php)
-       [Full Spectrum](http://fslaser.com/) [Lasersaur](http://www.lasersaur.com/)
-       [3D FabLight](http://3dfablight.com) [Oxford](http://www.oxfordlasers.com/laser-micromachining/) [PHAROS](http://www.lightcon.com/Product/PHAROS.html)
+[Epilog](http://www.epiloglaser.com/product_line.htm), [Universal](http://www.ulsinc.com/products/) [Trotec](http://www.troteclaser.com), [GCC](http://www.gccworld.com/Laser_Engraver.php),
+       [Full Spectrum](http://fslaser.com/) [Lasersaur](http://www.lasersaur.com/),
+       [3D FabLight](http://3dfablight.com), [Oxford](http://www.oxfordlasers.com/laser-micromachining/), [PHAROS](http://www.lightcon.com/Product/PHAROS.html),
+       [Yamata](https://www.paginasamarillas.com.co/empresas/almacen-yamata/medellin-15498781)
 
 ### _Plasma_
 [Forest Scientific](http://forestscientific.com/cnc-plasma-cutters) [Torchmate](https://torchmate.com)
  
- ### _Chorro de agua_
+### _Chorro de agua_
 [OMAX](https://www.omax.com) [Flow](https://www.flowwaterjet.com) [WAZER](https://www.wazer.com)
  
 ### _Hilo caliente_
