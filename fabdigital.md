@@ -225,9 +225,6 @@ script:
 ### 19.04.minds.2
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.04.minds.2.png)
 
-### 16.04.Mars
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.Mars.png)
-
 ### 17.03.1e3.4
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.4.png)
 
