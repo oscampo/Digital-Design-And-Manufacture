@@ -107,105 +107,132 @@ script:
 
 ### 14.05.FAB10
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.05.FAB10.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/10.08.fablabhouse.mp4)
+
 ### 14.07.pledge
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.07.pledge.png)
+
 ### 18.08.FabCity
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.08.FabCity.png)
+
 ### 17.11.Poblenou
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.11.Poblenou.png)
+
 ### 14.06.mobile-WH
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.06.mobile-WH.png)
+
 ### 14.06.NFLN
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.06.NFLN.png)
+
 ### 21.07.RapidResponse
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.07.RapidResponse.png)
-### 15.08.FAB11
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.08.FAB11.png)
-### 16.07.FAB12
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.07.FAB12.png)
-### 17.04.FAB13
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.04.FAB13.png)
-### 18.03.FAB14
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.03.FAB14.png)
-### 19.03.FAB15
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.03.FAB15.png)
-### 20.06.FABxLive
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.06.FABxLive.png)
-### 21.05.FAB16
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.FAB16.jpg)
+
 ### 19.05.FFACIOn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.FFACIO.png)
 
 ### 17.03.1e3.2
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.2.png)
+
 ### 19.05.machines
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.machines.png)
+
 ### 18.05.CADCAM
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.05.CADCAM.png)
+
 ### 17.06.MTM
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.MTM.jpg)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.03.Popfab.mp4)
+
 ### 17.06.modular
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.modular.png)
+
 ### 17.03.Jens
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.Jens.png)
+
 ### 19.07.squidworks
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.mp4)
+
 ### 20.01.Apple
 !?[](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.01.Apple.mp4)
 
 ### 21.05.HomeLabs
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.HomeLabs.png)
+
 ### 21.08.HaystackLabsMachines
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.08.HaystackLabsMachines.png)
+
 ### 19.05.M3Ds
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.M3Ds.png)
+
 ### 20.01.KSUM
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.01.KSUM.jpg)
+
 ### 17.03.1e3.3
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.3.png)
+
 ### 17.12.inventory
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.12.inventory.png)
+
 ### 17.06.assemble
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.assemble.png)
+
 ### 15.04.digcompn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.04.digcompn.png)
+
 ### 21.05.MechMeta
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.MechMeta.png)
+
 ### 19.10.wing
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.10.wing.png)
+
 ### 19.10.BillE
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.10.BillE.png)
+
 ### 17.03.1e3.4
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.4.png)
+
 ### 16.12.speed
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.12.speed.png)
+
 ### 19.05.AAproject
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.AAproject.png)
+
 ### 21.05.bio
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.bio.png)
+
 ### 16.04.assemstructn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.staplen.mp4)
+
 ### 16.12.elfn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.12.elfn.png)
+
 ### 19.07.assembler
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.assembler.png)
+
 ### 19.05.robots
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.robots.png)
+
 ### 17.08.2DOFdesign
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.08.2DOFdesign.png)
+
 ### 20.02.DICE
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.02.DICE.png)
+
 ### 20.10.HWSW
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.10.HWSW.png)
+
 ### 18.04.JVNTuring
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.04.JVNTuring.png)
+
 ### 19.04.minds.2
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.04.minds.2.png)
+
 ### 16.04.Mars
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.Mars.png)
+
 ### 17.03.1e3.4
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.4.png)
+
 ### 21.07.PoliticoSMRDR
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.07.PoliticoSMRDR.png)
+
 ### END
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/blank.png)
