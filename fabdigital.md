@@ -139,7 +139,7 @@ script:
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.MTM.jpg)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.03.Popfab.mp4)
 
 ### 17.06.modular
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.modular.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.modular.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.08.modular.mp4)
 
 ### 17.03.Jens
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.Jens.png)
