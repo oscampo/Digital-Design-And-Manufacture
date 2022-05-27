@@ -1,8 +1,23 @@
-![](http://ng.cba.mit.edu/show/thumb/17.12.revolutions.thumb.png)17.12.revolutions
+<!--
 
-![](http://ng.cba.mit.edu/show/thumb/19.07.MooreAltairLass.thumb.png)19.07.MooreAltairLass
+author:   Oscar Campo
+email:    oicampo@uao.edu.co
+version:  0.0.1
+language: sp
+narrator: Spanish Latin American Female
 
-![](http://ng.cba.mit.edu/show/thumb/13.08.PopSci.thumb.png)13.08.PopSci
+logo:     
+
+comment:  En este documento se presenta una perspectiva de hacia dónde va la Fabricación Digital
+script:   
+-->
+
+### Fabricación Digital
+1) ![](http://ng.cba.mit.edu/show/thumb/17.12.revolutions.thumb.png)17.12.revolutions
+
+2) ![](http://ng.cba.mit.edu/show/thumb/19.07.MooreAltairLass.thumb.png)19.07.MooreAltairLass
+
+3) ![](http://ng.cba.mit.edu/show/thumb/13.08.PopSci.thumb.png)13.08.PopSci
 
 ![](http://ng.cba.mit.edu/show/thumb/17.07.whirlmill.thumb.png)17.07.whirlmill
 
