@@ -40,7 +40,8 @@ script:
 ### 19.05.tools
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.tools.png)
 ### 12.06.HTMAA
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/12.06.HTMAA.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/12.06.HTMAA.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/09.04.scream.mp4)
+
 ### 13.05.art_artisans
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.05.art_artisans.png)
 ### 20.02.HTMAApeople
