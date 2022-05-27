@@ -93,7 +93,8 @@ script:
 ### 21.05.Academany
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.Academany.png)
 ### 18.01.projects
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.01.projects.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.01.projects.png)](https://www.youtube.com/watch?v=2SvRi7LEP_4)
+
 ### 15.04.fabeconomy
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.04.fabeconomy.png)
 ### 16.08.HTGAA
