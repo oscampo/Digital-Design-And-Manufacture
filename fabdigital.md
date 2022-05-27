@@ -84,7 +84,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.04.floating.png)
 ### 19.01.Puerto Williams (Chile)
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.01.PW.png)
-### 13.10.NI
+### 13.10.Irlanda del Norte
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.10.NI.png)
 ### 15.01.Israel
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.01.Israel.jpg)
