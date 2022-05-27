@@ -104,8 +104,9 @@ script:
 
 ### 09.05.Seymour Papert
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/09.05.Seymour_turtle.jpg)
+
 ### 14.05.FAB10
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.05.FAB10.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.05.FAB10.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/10.08.fablabhouse.mp4)
 ### 14.07.pledge
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.07.pledge.png)
 ### 18.08.FabCity
