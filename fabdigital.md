@@ -101,8 +101,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.08.HTGAA.png)
 ### 18.01.textile
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.01.textile.png)
-### 12.01.distance_distributed
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/12.01.distance_distributed.png)
+
 ### 09.05.Seymour_turtle
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/09.05.Seymour_turtle.jpg)
 ### 14.05.FAB10
