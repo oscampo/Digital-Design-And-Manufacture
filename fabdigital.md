@@ -204,6 +204,9 @@ script:
 ### 19.07.assembler
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.assembler.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.assembler.mp4)
 
+### walking motor
+?[](http://ng.cba.mit.edu/show/video/18.03.motor.mp4)
+
 ### 19.05.robots
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.robots.png)
 
