@@ -162,7 +162,10 @@ script:
 ### 17.12.inventory
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.12.inventory.png)
 
-### 17.06.assemble
+### 17.06.assemble and Discrete Design (1/2)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.assemble.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.01.discretedesign.mp4)
+
+### 17.06.assemble and Discrete Design (2/2)
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.assemble.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.staplen.mp4)
 
 ### 15.04.digcompn
