@@ -1,7 +1,4 @@
-﻿
-
-1) ![](http://ng.cba.mit.edu/show/thumb/17.12.revolutions.thumb.png)17.12.revolutions
-
+﻿1) ![](http://ng.cba.mit.edu/show/thumb/17.12.revolutions.thumb.png)17.12.revolutions
 
 3) ![](http://ng.cba.mit.edu/show/thumb/19.07.MooreAltairLass.thumb.png)19.07.MooreAltairLass
 
