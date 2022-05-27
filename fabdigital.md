@@ -169,7 +169,8 @@ script:
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.assemble.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.staplen.mp4)
 
 ### 15.04.digcompn
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.04.digcompn.png)
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.04.digcomp.png)
+
 
 ### 21.05.MechMeta
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.MechMeta.png)
