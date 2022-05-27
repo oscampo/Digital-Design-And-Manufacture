@@ -22,7 +22,7 @@ script:
 
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.07.whirlmill.png)17.07.whirlmill
 
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.12.Analyzer.png)16.12.Analyzer
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.12.Analyzer.jpg)16.12.Analyzer
 
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.08.ShannonVonNeumann.png)17.08.ShannonVonNeumann
 
