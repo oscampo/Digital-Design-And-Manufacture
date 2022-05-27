@@ -146,7 +146,7 @@ script:
 ### 17.03.Jens
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.Jens.png)
 ### 19.07.squidworks
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.mp4)
 ### 20.01.Apple
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.01.Apple.jpg)
 ### 21.05.HomeLabs
