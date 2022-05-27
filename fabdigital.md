@@ -51,7 +51,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.12.PDP.png) En las décadas de 1960 y 1970, Dennis Ritchie y Ken Thompson inventaron Unix, posiblemente el sistema operativo informático más importante del mundo.
 
 
-### 12.01.no_reason
+### 12.01.Ken Olsen "no reason"
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/12.01.no_reason.jpg)
 ### 12.07.ten
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/12.07.ten.png)
