@@ -13,12 +13,13 @@ script:
 -->
 
 ### Fabricación Digital
-### 17.12.revolutions
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.12.revolutions.png)17.12.revolutions
-### 19.07.MooreAltairLass
-2) ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.MooreAltairLass.png)
 
-3) ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.08.PopSci.png)13.08.PopSci
+### 17.12.revolutions
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.12.revolutions.png)
+### 19.07.MooreAltairLass
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.MooreAltairLass.png)
+
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.08.PopSci.png)13.08.PopSci
 
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.07.whirlmill.png)17.07.whirlmill
 
