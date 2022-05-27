@@ -211,7 +211,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.robots.png)
 
 ### 17.08.2DOFdesign
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.08.2DOFdesign.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.08.2DOFdesign.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.08.2DOFdesign.mp4)
 
 ### 20.02.DICE
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.02.DICE.png)
