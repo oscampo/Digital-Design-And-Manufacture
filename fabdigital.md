@@ -36,8 +36,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.03.amino.png)
 ### 21.02.papers
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.02.papers.png)
-### 21.04.alums
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.04.alums.png)
+
 ### 19.05.tools
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.tools.png)
 ### 12.06.HTMAA
@@ -61,7 +60,8 @@ script:
 ### 16.08.fablabs
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.08.fablabs.jpg)
 ### 18.01.fablab
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.01.fablab.png)
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.01.fablab.jpg)
+
 ### 13.11.projects
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.11.projects.png)
 ### 09.04.Haakon_Kalbag_Mel
