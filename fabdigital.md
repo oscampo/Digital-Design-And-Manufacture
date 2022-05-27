@@ -153,7 +153,7 @@ script:
 ### 19.05.M3Ds
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.M3Ds.png)
 
-### 20.01.KSUM
+### 20.01.Super FabLab in Kerala(India)
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.01.KSUM.jpg)
 
 ### 17.03.1e3.3
