@@ -141,9 +141,6 @@ script:
 ### 17.06.modular
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.modular.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.08.modular.mp4)
 
-### 17.03.Jens
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.Jens.png)
-
 ### 19.07.squidworks
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.mp4)
 
