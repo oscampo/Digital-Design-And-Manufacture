@@ -148,7 +148,8 @@ script:
 ### 19.07.squidworks
 [![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.squidworks.mp4)
 ### 20.01.Apple
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.01.Apple.jpg)
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.01.Apple.mp4)
+
 ### 21.05.HomeLabs
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.HomeLabs.png)
 ### 21.08.HaystackLabsMachines
