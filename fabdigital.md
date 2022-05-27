@@ -1,20 +1,20 @@
-1) ![](http://ng.cba.mit.edu/show/thumb/17.12.revolutions.thumb.png)17.12.revolutions
+![](http://ng.cba.mit.edu/show/thumb/17.12.revolutions.thumb.png)17.12.revolutions
 
-3) ![](http://ng.cba.mit.edu/show/thumb/19.07.MooreAltairLass.thumb.png)19.07.MooreAltairLass
+![](http://ng.cba.mit.edu/show/thumb/19.07.MooreAltairLass.thumb.png)19.07.MooreAltairLass
 
-4) ![](http://ng.cba.mit.edu/show/thumb/13.08.PopSci.thumb.png)13.08.PopSci
+![](http://ng.cba.mit.edu/show/thumb/13.08.PopSci.thumb.png)13.08.PopSci
 
-5) ![](http://ng.cba.mit.edu/show/thumb/17.07.whirlmill.thumb.png)17.07.whirlmill
+![](http://ng.cba.mit.edu/show/thumb/17.07.whirlmill.thumb.png)17.07.whirlmill
 
-6) ![](http://ng.cba.mit.edu/show/thumb/16.12.Analyzer.thumb.png)16.12.Analyzer
+![](http://ng.cba.mit.edu/show/thumb/16.12.Analyzer.thumb.png)16.12.Analyzer
 
-7) ![](http://ng.cba.mit.edu/show/thumb/17.08.ShannonVonNeumann.thumb.png)17.08.ShannonVonNeumann
+![](http://ng.cba.mit.edu/show/thumb/17.08.ShannonVonNeumann.thumb.png)17.08.ShannonVonNeumann
 
-8) ![](http://ng.cba.mit.edu/show/thumb/16.03.amino.thumb.png)16.03.amino
+![](http://ng.cba.mit.edu/show/thumb/16.03.amino.thumb.png)16.03.amino
 
-9) ![](http://ng.cba.mit.edu/show/thumb/21.02.papers.thumb.png)21.02.papers
+![](http://ng.cba.mit.edu/show/thumb/21.02.papers.thumb.png)21.02.papers
 
-10) ![](http://ng.cba.mit.edu/show/thumb/21.04.alums.thumb.png)21.04.alums
+![](http://ng.cba.mit.edu/show/thumb/21.04.alums.thumb.png)21.04.alums
 
 11) ![](http://ng.cba.mit.edu/show/thumb/19.05.tools.thumb.png)19.05.tools
 
