@@ -102,7 +102,7 @@ script:
 ### 18.01.textile
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.01.textile.png)
 
-### 09.05.Seymour Pappert
+### 09.05.Seymour Papert
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/09.05.Seymour_turtle.jpg)
 ### 14.05.FAB10
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/14.05.FAB10.png)
