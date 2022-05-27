@@ -126,9 +126,6 @@ script:
 ### 21.07.RapidResponse
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.07.RapidResponse.png)
 
-### 19.05.FFACIOn
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.FFACIO.png)
-
 ### 17.03.1e3.2
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.2.png)
 
