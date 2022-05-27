@@ -180,7 +180,7 @@ script:
 
 
 ### 19.10.BillE
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.10.BillE.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.10.BillE.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.09.bille.mp4)
 
 ### 17.03.1e3.4
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.03.1e3.4.png)
