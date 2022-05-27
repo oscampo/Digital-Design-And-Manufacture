@@ -194,8 +194,9 @@ script:
 ### 21.05.bio
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.bio.png)
 
-### 16.04.assemstructn
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.staplen.mp4)
+### 16.04.assemstruct
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.assemstruct.png)
+
 
 ### 16.12.elfn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.12.elfn.png)
