@@ -202,7 +202,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.12.elfn.png)
 
 ### 19.07.assembler
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.assembler.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.assembler.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.07.assembler.mp4)
 
 ### 19.05.robots
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.robots.png)
