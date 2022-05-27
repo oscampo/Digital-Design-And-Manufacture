@@ -129,7 +129,7 @@ script:
 ### 20.06.FABxLive
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/20.06.FABxLive.png)
 ### 21.05.FAB16
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.FAB16.png)
+![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.FAB16.jpg)
 ### 19.05.FFACIOn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.05.FFACIOn.png)
 ### 17.03.1e3.2
