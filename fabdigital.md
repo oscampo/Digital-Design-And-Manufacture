@@ -13,9 +13,10 @@ script:
 -->
 
 ### Fabricación Digital
-1) ![](http://ng.cba.mit.edu/show/slide/17.12.revolutions.png)17.12.revolutions
-
-2) ![](http://ng.cba.mit.edu/show/slide/19.07.MooreAltairLass.png)19.07.MooreAltairLass
+### 17.12.revolutions
+![](http://ng.cba.mit.edu/show/slide/17.12.revolutions.png)17.12.revolutions
+### 19.07.MooreAltairLass
+2) ![](http://ng.cba.mit.edu/show/slide/19.07.MooreAltairLass.png)
 
 3) ![](http://ng.cba.mit.edu/show/slide/13.08.PopSci.png)13.08.PopSci
 
