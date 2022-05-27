@@ -140,7 +140,7 @@ script:
 ### 18.05.CADCAM
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/18.05.CADCAM.png)
 ### 17.06.MTM
-[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.MTM.jpg)](http://ng.cba.mit.edu/show/video/13.03.Popfab.mp4)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.MTM.jpg)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/13.03.Popfab.mp4)
 ### 17.06.modular
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.modular.png)
 ### 17.03.Jens
