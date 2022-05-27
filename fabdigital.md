@@ -176,7 +176,8 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/21.05.MechMeta.png)
 
 ### 19.10.wing
-[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.10.wing.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.11.morph.NASA.mp4)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.04.wing.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.11.morph.NASA.mp4)
+
 
 ### 19.10.BillE
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/19.10.BillE.png)
