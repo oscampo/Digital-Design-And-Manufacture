@@ -163,7 +163,7 @@ script:
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.12.inventory.png)
 
 ### 17.06.assemble
-![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.assemble.png)
+[![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/17.06.assemble.png)](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/16.04.staplen.mp4)
 
 ### 15.04.digcompn
 ![](https://oscampo.github.io/Digital-Design-And-Manufacture/slides/15.04.digcompn.png)
